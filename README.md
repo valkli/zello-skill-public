@@ -16,7 +16,7 @@ Active local skill. Public repo contains only a safe overview, not credentials o
 
 ## Activity
 
-- Last public activity update: 2026-05-14 02:35 Europe/Madrid
+- Last public activity update: 2026-05-14 03:00 Europe/Madrid
 - Local private source exists. Safe file-category scan: 11 non-sensitive files (python: 2, docs: 4, other: 5).
 
 ## Repository policy
